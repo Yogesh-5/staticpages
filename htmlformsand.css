@@ -1,0 +1,86 @@
+.first-one {
+  width: 500px;
+  height: 700px;
+
+  background-color: rgb(225, 252, 71);
+  margin: auto;
+
+  border: red 1px;
+  border-style: solid;
+}
+
+.first-two {
+  color: rgb(189, 10, 10);
+  padding-top: 18px;
+}
+
+.first-three {
+  margin-left: 130px;
+  margin-bottom: 20px;
+}
+
+.first-fourth {
+  margin-left: 115px;
+  margin-bottom: 20px;
+}
+
+.first-fifth {
+  margin-left: 115px;
+  margin-bottom: 20px;
+}
+
+.first-sixth {
+  margin-left: 130px;
+  margin-bottom: 20px;
+}
+
+.first-seventh {
+  margin-left: 115px;
+  margin-bottom: 20px;
+}
+
+.first-eighth {
+  color: firebrick;
+}
+
+.first-ninth {
+  margin-left: 140px;
+  margin-bottom: 20px;
+}
+
+.first-tenth {
+  margin-left: 120px;
+  margin-bottom: 20px;
+}
+
+.second-one {
+  margin-left: 105px;
+  margin-bottom: 40px;
+}
+
+.second-second {
+  margin-left: 230px;
+  margin-bottom: 20px;
+  color: brown;
+}
+
+.second-third {
+  margin-left: 100px;
+  margin-bottom: 20px;
+}
+
+.second-fourth {
+  margin-left: 80px;
+  margin-bottom: 20px;
+}
+
+.second-fifth {
+  margin-left: 180px;
+  margin-bottom: 20px;
+  width: 120px;
+  height: 30px;
+  background-color: orange;
+  border-color: aliceblue;
+  color: white;
+  border-radius: 5px;
+}
